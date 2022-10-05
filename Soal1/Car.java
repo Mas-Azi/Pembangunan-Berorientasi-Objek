@@ -1,4 +1,4 @@
-package Soal1;
+
 public class Car {
     int modelYear;
     String modelName;
